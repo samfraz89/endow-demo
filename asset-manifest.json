@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/endow-demo/static/css/main.22c90e8b.css",
+    "main.js": "/endow-demo/static/js/main.dc2d28c0.js",
+    "static/js/271.1c024b33.chunk.js": "/endow-demo/static/js/271.1c024b33.chunk.js",
+    "static/js/550.fa0038b3.chunk.js": "/endow-demo/static/js/550.fa0038b3.chunk.js",
+    "static/media/about-nz-coast.jpg": "/endow-demo/static/media/about-nz-coast.c82029037eade631192e.jpg",
+    "static/media/home-mobile-portrait.jpg": "/endow-demo/static/media/home-mobile-portrait.9a7ba4b19970d3994bb3.jpg",
+    "static/media/borrowers-plans.jpg": "/endow-demo/static/media/borrowers-plans.66a53cae5496a043fde1.jpg",
+    "static/media/solid-ground.jpg": "/endow-demo/static/media/solid-ground.c3b8dacda99203a944eb.jpg",
+    "static/media/borrowers-architect.jpg": "/endow-demo/static/media/borrowers-architect.8ad17c98e4c19c356962.jpg",
+    "static/media/borrowers-aerial.jpg": "/endow-demo/static/media/borrowers-aerial.43858c9b8e31721006c8.jpg",
+    "static/media/property-house.jpg": "/endow-demo/static/media/property-house.369f044eae04427ad47e.jpg",
+    "static/media/team-handshake.png": "/endow-demo/static/media/team-handshake.114ccdec6ac2f768cbac.png",
+    "static/media/asian-woman-trust.jpeg": "/endow-demo/static/media/asian-woman-trust.d2cc0b9423140e71ea06.jpeg",
+    "static/media/older-man-laptop.jpg": "/endow-demo/static/media/older-man-laptop.f8ad419af2a490ef19d1.jpg",
+    "static/media/borrowers-house.jpg": "/endow-demo/static/media/borrowers-house.7306d3a0c48d87530e2f.jpg",
+    "static/media/investor-green.jpg": "/endow-demo/static/media/investor-green.c58e6a83ada861f4e6d4.jpg",
+    "static/media/professional-guy.png": "/endow-demo/static/media/professional-guy.eb7bf5182a6c2c7768c3.png",
+    "static/media/endow_nadine.png": "/endow-demo/static/media/endow_nadine.1b3de2ed32ab761752b2.png",
+    "static/media/endow_john.png": "/endow-demo/static/media/endow_john.181ed54e21d3f40003f3.png",
+    "static/media/endow_michael.png": "/endow-demo/static/media/endow_michael.e9ff678f3966cc5cfead.png",
+    "static/media/endow_phil.png": "/endow-demo/static/media/endow_phil.d9af6a6509b3a2f2f44e.png",
+    "static/media/endow_helen.png": "/endow-demo/static/media/endow_helen.4238f4195a66ae1ad252.png",
+    "static/media/investor-kitchen-v2.webp": "/endow-demo/static/media/investor-kitchen-v2.a79640b3bccfd59cda72.webp",
+    "static/media/endow_matt.png": "/endow-demo/static/media/endow_matt.17b73966cc7263f9a754.png",
+    "static/media/couple-laptop.jpg": "/endow-demo/static/media/couple-laptop.be32a888f0af2582ec9f.jpg",
+    "static/media/endow-circle.png": "/endow-demo/static/media/endow-circle.b48f97269a2d4dee2084.png",
+    "static/media/investor-kitchen.webp": "/endow-demo/static/media/investor-kitchen.309fec1101b2393c76c9.webp",
+    "static/media/about-older-man.webp": "/endow-demo/static/media/about-older-man.789a4fa90a6c89229d27.webp",
+    "static/media/woman-yellow.jpg": "/endow-demo/static/media/woman-yellow.663d71375254c555e354.jpg",
+    "static/media/49years.png": "/endow-demo/static/media/49years.a1b5c5a310af9d024ee5.png",
+    "index.html": "/endow-demo/index.html",
+    "static/media/person-silhouette.svg": "/endow-demo/static/media/person-silhouette.67a121caaa161a7dd43054eefa0b01f9.svg"
+  },
+  "entrypoints": [
+    "static/css/main.22c90e8b.css",
+    "static/js/main.dc2d28c0.js"
+  ]
+}
