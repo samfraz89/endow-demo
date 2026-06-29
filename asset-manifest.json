@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/endow-demo/static/css/main.22c90e8b.css",
-    "main.js": "/endow-demo/static/js/main.dc2d28c0.js",
+    "main.css": "/endow-demo/static/css/main.a9ca7871.css",
+    "main.js": "/endow-demo/static/js/main.f17a71f4.js",
     "static/js/271.1c024b33.chunk.js": "/endow-demo/static/js/271.1c024b33.chunk.js",
     "static/js/550.fa0038b3.chunk.js": "/endow-demo/static/js/550.fa0038b3.chunk.js",
     "static/media/about-nz-coast.jpg": "/endow-demo/static/media/about-nz-coast.c82029037eade631192e.jpg",
@@ -29,12 +29,13 @@
     "static/media/investor-kitchen.webp": "/endow-demo/static/media/investor-kitchen.309fec1101b2393c76c9.webp",
     "static/media/about-older-man.webp": "/endow-demo/static/media/about-older-man.789a4fa90a6c89229d27.webp",
     "static/media/woman-yellow.jpg": "/endow-demo/static/media/woman-yellow.663d71375254c555e354.jpg",
+    "static/media/raleway-variable.woff2": "/endow-demo/static/media/raleway-variable.2d3d80805a94acef66b0.woff2",
     "static/media/49years.png": "/endow-demo/static/media/49years.a1b5c5a310af9d024ee5.png",
     "index.html": "/endow-demo/index.html",
     "static/media/person-silhouette.svg": "/endow-demo/static/media/person-silhouette.67a121caaa161a7dd43054eefa0b01f9.svg"
   },
   "entrypoints": [
-    "static/css/main.22c90e8b.css",
-    "static/js/main.dc2d28c0.js"
+    "static/css/main.a9ca7871.css",
+    "static/js/main.f17a71f4.js"
   ]
 }
